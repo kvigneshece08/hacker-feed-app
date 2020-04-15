@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render initial layout 1`] = `
+Array [
+  <div>
+    <React.Fragment>
+      <h1>
+        Hackers feed
+      </h1>
+      <h3>
+        Loading...
+      </h3>
+    </React.Fragment>
+  </div>,
+]
+`;
